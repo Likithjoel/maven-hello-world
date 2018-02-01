@@ -111,7 +111,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://rig.eastus.cloudapp.azure.com:8091/nexus/content/repositories/releases/</url>
+            <url>http://rig.eastus.cloudapp.azure.com:8091/nexus/content/repositories/1234/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
